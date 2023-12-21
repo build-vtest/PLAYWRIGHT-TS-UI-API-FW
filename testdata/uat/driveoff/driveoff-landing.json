@@ -1,0 +1,22 @@
+{
+    "TC Drive_031": {
+        "url": "https://uat-portal.efuelsystems.com",
+        "userNameInput": "SayaliSuperUser",
+        "companyCode": "TESTTEAM",
+        "passwordInput": "DemoPass!CA1"
+    },
+
+    "TC Drive_032": {
+        "url": "https://uat-portal.efuelsystems.com",
+        "userNameInput": "SayaliSuperUser",
+        "companyCode": "TESTTEAM",
+        "passwordInput": "DemoPass!CA1"
+    },
+
+    "TC Drive_033": {
+        "url": "https://uat-portal.efuelsystems.com",
+        "userNameInput": "SayaliSuperUser",
+        "companyCode": "TESTTEAM",
+        "passwordInput": "DemoPass!CA1"
+    }
+}

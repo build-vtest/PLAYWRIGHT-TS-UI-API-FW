@@ -1,0 +1,213 @@
+{
+	"TC-Login-2": {
+		"url": "https://dev-portal.efuelsystems.com",
+		"userNameInput": "DemoSuperUser",
+		"companyCode": "TESTTEAM",
+		"passwordInput": "DemoPass!CA1",
+		"expectedPageTitle": "innomatics"
+	},
+	"TC-Login-3": {
+		"url": "https://dev-portal.efuelsystems.com",
+		"userNameInput": "DemoSuperUserrr",
+		"companyCode": "TESTTEAM",
+		"passwordInput": "DemoPass!CA1rr",
+		"errorMessage": "The credentials you used did not work. Please enter new credentials."
+	},
+	"TC-Login-4": {
+		"url": "https://dev-portal.efuelsystems.com",
+		"userNameInput": "DemoSuperUser",
+		"companyCode": "TESTTEAM",
+		"passwordInput": "DemoPass!CA1rr",
+		"errorMessage": "The credentials you used did not work. Please enter new credentials."
+	},
+	"TC-Login-5": {
+		"url": "https://dev-portal.efuelsystems.com",
+		"userNameInput": "DemoSuperUserrr",
+		"companyCode": "TESTTEAM",
+		"passwordInput": "DemoPass!CA1",
+		"errorMessage": "The credentials you used did not work. Please enter new credentials."
+	},
+	"TC-Login-6": {
+		"url": "https://dev-portal.efuelsystems.com",
+		"userNameInput": "DemoSuperUserrr"
+	},
+	"TC-Login-7": {
+		"url": "https://dev-portal.efuelsystems.com",
+		"userNameInput": "DemoSuperUser",
+		"companyCode": "TESTTEAM",
+		"passwordInput": "DemoPass!CA1"
+	},
+	"TC-Login-8": {
+		"url": "https://dev-portal.efuelsystems.com",
+		"userNameInput": "DemoSuperUser2",
+		"companyCode": "TESTTEAM",
+		"passwordInput": "    DemoPass!CA1",
+		"expectedPageTitle": "innomatics"
+	},
+	"TC-Login-9": {
+		"url": "https://dev-portal.efuelsystems.com",
+		"userNameInput": "DemoSuperUser2",
+		"companyCode": "TESTTEAM",
+		"passwordInput": "dEMoPaSs!CA1",
+		"errorMessage": "The credentials you used did not work. Please enter new credentials."
+	},
+	"TC-Login-10": {
+		"url": "https://dev-portal.efuelsystems.com",
+		"userNameInput": "VikramSuperUser",
+		"companyCode": "TESTTEAM",
+		"passwordInput": "!@#$%^&*(",
+		"errorMessage": "The credentials you used did not work. Please enter new credentials."
+	},
+	"TC-Login-11": {
+		"url": "https://dev-portal.efuelsystems.com",
+		"userNameInput": "SayaliSuperUser",
+		"companyCode": "TESTTEAM",
+		"passwordInput": "DemoPass!CA1",
+		"expectedPageTitle": "innomatics"
+	},
+	"TC-Login-12": {
+		"url": "https://dev-portal.efuelsystems.com",
+		"userNameInput": "GarimaSuperUser",
+		"companyCode": "TESTTEAM",
+		"passwordInput": "123456",
+		"errorMessage": "The credentials you used did not work. Please enter new credentials."
+	},
+	"TC-Login-13a": {
+		"url": "https://dev-portal.efuelsystems.com",
+		"userNameInput": "",
+		"companyCode": "TESTTEAM",
+		"passwordInput": "",
+		"errorMessageUserName": "Please enter username"
+	},
+	"TC-Login-13b": {
+		"url": "https://dev-portal.efuelsystems.com",
+		"userNameInput": "VikramSuperUser",
+		"companyCode": "TESTTEAM",
+		"passwordInput": "",
+		"errorMessagePassword": "Please enter password"
+	},
+	"TC-Login-14": {
+		"url": "https://dev-portal.efuelsystems.com",
+		"userNameInput": "SayaliSuperUser",
+		"companyCode": "XYZ",
+		"passwordInput": "DemoPass!CA1",
+		"errorMessageCredentials": "The credentials you used did not work. Please enter new credentials."
+	},
+	"TC-Login-15": {
+		"url": "https://dev-portal.efuelsystems.com",
+		"userNameInput": "SayaliSuperUser",
+		"companyCode": "XYZ",
+		"passwordInput": "DemoPass!CA1",
+		"errorMessageCredentials": "The credentials you used did not work. Please enter new credentials."
+	},
+	"TC-Login-18": {
+		"url": "https://dev-portal.efuelsystems.com",
+		"userNameInput": "Demo",
+		"companyCode": "XYZ",
+		"passwordInput": "DemoPass",
+		"errorMessageCredentials": "The credentials you used did not work. Please enter new credentials."
+	},
+	"TC-Login-19": {
+		"url": "https://dev-portal.efuelsystems.com",
+		"userNameInput": "DemoSuperUser",
+		"companyCode": "TESTTEAM",
+		"passwordInput": "DemoPass!CA1",
+		"homeUrl": "https://dev-portal.efuelsystems.com/home/dashboard"
+	},
+	"TC-Login-23": {
+		"url": "https://dev-portal.efuelsystems.com",
+		"userNameInput": "Demo",
+		"companyCode": "XYZ",
+		"passwordInput": "Standard@12345",
+		"popup": "Ok"
+	},
+	"TC-Login-24": {
+		"url": "https://dev-portal.efuelsystems.com",
+		"emailID": "vikram.sanap@efuelsystems.com",
+		"popup": "Ok"
+	},
+	"TC-Login-25": {
+		"url": "https://dev-portal.efuelsystems.com",
+		"emailID": "vikram@vtestcorp.com",
+		"popup": "Ok"
+	},
+	"TC-Login-27": {
+		"url": "https://dev-portal.efuelsystems.com",
+		"userNameInput": "ProdSuperUser",
+		"companyCode": "TESTTEAM",
+		"passwordInput": "DemoPass!CA1",
+		"homeUrl": "https://dev-portal.efuelsystems.com/home/dashboard"
+	},
+	"TC-Login-28": {
+		"url": "https://dev-portal.efuelsystems.com",
+		"userNameInput": "ProdAdminUser",
+		"companyCode": "TESTTEAM",
+		"passwordInput": "DemoPass!CA1",
+		"homeUrl": "https://dev-portal.efuelsystems.com/home/dashboard"
+	},
+	"TC-Login-29": {
+		"url": "https://dev-portal.efuelsystems.com",
+		"userNameInput": "ProdUserRole",
+		"companyCode": "TESTTEAM",
+		"passwordInput": "DemoPass!CA1",
+		"homeUrl": "https://dev-portal.efuelsystems.com/home/dashboard"
+	},
+	"TC-Login-30": {
+		"url": "https://dev-portal.efuelsystems.com",
+		"userNameInput": "ProdUserRole",
+		"companyCode": "COMPANY",
+		"passwordInput": "DemoPass!CA1",
+		"homeUrl": "https://dev-portal.efuelsystems.com/home/dashboard"
+	},
+	"TC-Login-31": {
+		"url": "https://dev-portal.efuelsystems.com",
+		"userNameInput": "ProdUserRole",
+		"companyCode": "COMPANY",
+		"passwordInput": "DemoPass!CA1",
+		"homeUrl": "https://dev-portal.efuelsystems.com/home/dashboard"
+	},
+	"TC-Login-32": {
+		"url": "https://dev-portal.efuelsystems.com",
+		"userNameInput": "ProdUserRole",
+		"companyCode": "COMPANY",
+		"passwordInput": "DemoPass!CA1",
+		"homeUrl": "https://dev-portal.efuelsystems.com/home/dashboard"
+	},
+	"TC-Login-38": {
+		"url": "https://dev-portal.efuelsystems.com",
+		"userNameInput": "RaveenaSuperUser",
+		"companyCode": "TESTTEAM",
+		"passwordInput": "DemoPass!CA1",
+		"popup": "Ok"
+	},
+	"TC-Login-56": {
+		"url": "https://dev-portal.efuelsystems.com",
+		"userNameInput": "DemoSuperUser2",
+		"companyCode1": "XYZ",
+		"companyCode2": "TESTING",
+		"companyCode3": "CEX",
+		"passwordInput": "Standard@12345",
+		"lockedoutErrorMessage": "Your account has been locked for 60 minutes"
+	},
+	"TC-Login-59": {
+		"url": "https://dev-portal.efuelsystems.com",
+		"userNameInput": "StandardUser2",
+		"companyCode": "TESTTEAM",
+		"passwordInput": "Standard@12345",
+		"popup": "Ok"
+	},
+	"TC-Login-60": {
+		"url": "https://dev-portal.efuelsystems.com",
+		"userNameInput": "VikramSuperUser",
+		"companyCode": "TESTTEAM",
+		"passwordInput": "DemoPass!CA1",
+		"popup": "Ok"
+	},
+	"TC-Login-130": {
+		"url": "https://dev-portal.efuelsystems.com",
+		"userNameInput": "StandardUser1",
+		"companyCode": "TESTTEAM",
+		"passwordInput": "Standard@12345",
+		"popup": "Ok"
+	}
+}

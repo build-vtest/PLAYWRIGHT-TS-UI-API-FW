@@ -1,0 +1,17 @@
+{
+    "TC-01": {
+        "name": "morpheus",
+        "job": "leader"
+    },
+    "TC-02": {
+        "email": "eve.holt@reqres.in",
+        "password": "cityslicka"
+    },
+    "TC-03": {
+        "email": "eve.holt@reqres.in"
+    },
+    "TC-04": {
+        "name": "Vikram",
+        "job": "Senior Tester"
+    }
+}

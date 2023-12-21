@@ -1,0 +1,29 @@
+{
+    "TC_Stock_011": 
+    {
+    "url": "https://uat-portal.efuelsystems.com",
+    "loginUserName": "garimaSuperUser",
+    "loginPassword": "DemoPass!CA1",
+    "companyCode": "TESTTEAM",
+    "siteName":"MySite",
+    "division":"All",
+    "state":"All",
+    "product":"All"
+    },
+
+    "TC_Stock_012": 
+    {
+    "url": "https://uat-portal.efuelsystems.com",
+    "loginUserName": "garimaSuperUser",
+    "loginPassword": "DemoPass!CA1",
+    "companyCode": "TESTTEAM",
+    "siteName":"MySite",
+    "division":"All",
+    "state":"All",
+    "product":"All"
+    }
+
+
+}
+  
+    

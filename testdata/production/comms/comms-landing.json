@@ -1,0 +1,56 @@
+{
+    "TC-Comms-035": {
+        "url": "https://uat-portal.efuelsystems.com",
+        "userNameInput": "DemoSuperUser",
+        "companyCode": "TESTTEAM",
+        "passwordInput": "DemoPass!CA1",
+        "siteName": "Site test",
+        "siteNumber": "-00781-Site0970",
+        "dd": "19",
+        "mm": "Jul",
+        "yyyy": "2023",
+        "dd1": "20",
+        "mm1": "Jul",
+        "yyyy1": "2023"
+    },
+    "TC-Comms-037": {
+        "url": "https://uat-portal.efuelsystems.com",
+        "userNameInput": "DemoSuperUser",
+        "companyCode": "TESTTEAM",
+        "passwordInput": "DemoPass!CA1",
+        "siteName": "Site test",
+        "siteNumber": "-00781-Site0970",
+        "dd": "19",
+        "mm": "Jul",
+        "yyyy": "2023",
+        "dd1": "20",
+        "mm1": "Jul",
+        "yyyy1": "2023"
+    },
+    "TC-Comms-040": {
+        "url": "https://uat-portal.efuelsystems.com",
+        "userNameInput": "DemoSuperUser",
+        "companyCode": "TESTTEAM",
+        "passwordInput": "DemoPass!CA1",
+        "siteName": "Site test",
+        "siteNumber": "-00781-Site0970",
+        "dd": "19",
+        "mm": "Jul",
+        "yyyy": "2023",
+        "dd1": "20",
+        "mm1": "Jul",
+        "yyyy1": "2023"
+    },
+    "TC Comms_034": {
+        "url": "https://uat-portal.efuelsystems.com",
+        "userNameInput": "DemoSuperUser",
+        "companyCode": "TESTTEAM",
+        "passwordInput": "DemoPass!CA1"
+    },
+    "TC Comms_038": {
+        "url": "https://uat-portal.efuelsystems.com",
+        "userNameInput": "DemoSuperUser",
+        "companyCode": "TESTTEAM",
+        "passwordInput": "DemoPass!CA1"
+    }
+}

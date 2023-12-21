@@ -1,0 +1,291 @@
+{
+
+    "TC_Stock_013": 
+    {
+        "url": "https://uat-portal.efuelsystems.com",
+        "loginUserName": "garimaSuperUser",
+        "loginPassword": "DemoPass!CA1",
+        "companyCode": "TESTTEAM",
+        "siteName":"MySite",
+        "expectedTankNo":"TestTank",
+        "productName":"teststock",
+        "levelType":"Qty",
+        "minCapacityQty":"2",
+        "maxCapacityQty":"4",
+        "minCapacityPercentage":"40",
+        "maxCapacityPercentage":"80",
+        "minLevelQty":"4",
+        "maxLevelQty":"8",
+        "minLevelPercentage":"50",
+        "maxLevelPercentage":"90",
+        "expectedErrorMsg":"Error: You must add a Tank before you can add a Stock Level."
+    },
+
+    "TC_Stock_014": 
+    {
+        "url": "https://uat-portal.efuelsystems.com",
+        "loginUserName": "garimaSuperUser",
+        "loginPassword": "DemoPass!CA1",
+        "companyCode": "TESTTEAM",
+        "siteName":"MySite",
+        "expectedTankNo":"TestTank",
+        "tankStatus":"Temporarily Disabled",
+        "productName":"teststock",
+        "levelType":"Qty",
+        "minCapacityQty":"2",
+        "maxCapacityQty":"4",
+        "minCapacityPercentage":"40",
+        "maxCapacityPercentage":"80",
+        "minLevelQty":"4",
+        "maxLevelQty":"8",
+        "minLevelPercentage":"50",
+        "maxLevelPercentage":"90"
+    },
+
+    "TC_Stock_015": 
+    {
+        "url": "https://uat-portal.efuelsystems.com",
+        "loginUserName": "garimaSuperUser",
+        "loginPassword": "DemoPass!CA1",
+        "companyCode": "TESTTEAM",
+        "siteName":"MySite",
+        "expectedTankNo":"TestTank",
+        "tankStatus":"Temporarily Disabled",
+        "productName":"teststock",
+        "levelType":"Qty",
+        "minCapacityQty":"2",
+        "maxCapacityQty":"4",
+        "minCapacityPercentage":"40",
+        "maxCapacityPercentage":"80",
+        "minLevelQty":"4",
+        "maxLevelQty":"8",
+        "minLevelPercentage":"50",
+        "maxLevelPercentage":"90"
+    },
+
+    "TC_Stock_016": 
+    {
+        "url": "https://uat-portal.efuelsystems.com",
+        "loginUserName": "garimaSuperUser",
+        "loginPassword": "DemoPass!CA1",
+        "companyCode": "TESTTEAM",
+        "siteName":"MySite",
+        "tankStatus":"Permanently Decommissioned",
+        "expectedTankNo":"TestTank",
+        "productName":"teststock",
+        "levelType":"Qty",
+        "minCapacityQty":"2",
+        "maxCapacityQty":"4",
+        "minCapacityPercentage":"40",
+        "maxCapacityPercentage":"80",
+        "minLevelQty":"4",
+        "maxLevelQty":"8",
+        "minLevelPercentage":"50",
+        "maxLevelPercentage":"90",
+        "updatedTankNo":"TestUpdatedTank",
+        "updatedProductName":"ET94",
+        "updatdLevelType":"Both",
+        "updatedMinCapacityQty":"2",
+        "updatedMaxCapacityQty":"20",
+        "updatedMinCapacityPercentage":"40",
+        "updatedMaxCapacityPercentage":"70",
+        "updatedMinLevelQty":"47",
+        "updatedMaxLevelQty":"808",
+        "updatedMinLevelPercentage":"50",
+        "updatedMaxLevelPercentage":"90",
+        "expectedErrorMsg":"Error: You must add a Tank before you can add a Stock Level."
+    },
+  
+    "TC_Stock_017": 
+    {
+        "url": "https://uat-portal.efuelsystems.com",
+        "loginUserName": "garimaSuperUser",
+        "loginPassword": "DemoPass!CA1",
+        "companyCode": "TESTTEAM",
+        "siteName":"MySite",
+        "expectedTankNo":"TestTank",
+        "productName":"teststock",
+        "levelType":"Qty",
+        "expectedErrorMsg":"Error: You must add a Tank before you can add a Stock Level."
+    },
+
+    "TC_Stock_018": 
+    {
+        "url": "https://uat-portal.efuelsystems.com",
+        "loginUserName": "garimaSuperUser",
+        "loginPassword": "DemoPass!CA1",
+        "companyCode": "TESTTEAM",
+        "siteName":"MySite",
+        "expectedTankNo":"TestTank",
+        "productName":"teststock",
+        "levelType":"Qty",
+        "minCapacityQty":"2",
+        "maxCapacityQty":"4",
+        "minCapacityPercentage":"40",
+        "maxCapacityPercentage":"80",
+        "minLevelQty":"4",
+        "maxLevelQty":"8",
+        "minLevelPercentage":"50",
+        "maxLevelPercentage":"90",
+        "expectedErrorMsg":"Error: You must add a Tank before you can add a Stock Level.",
+        "expectedDeleteMsg":"Record has been deleted successfully"
+    },
+
+    "TC_Stock_019": 
+    {
+        "url": "https://uat-portal.efuelsystems.com",
+        "loginUserName": "garimaSuperUser",
+        "loginPassword": "DemoPass!CA1",
+        "companyCode": "TESTTEAM",
+        "siteName":"MySite"
+    },
+
+    "TC_Stock_021": 
+    {
+        "url": "https://uat-portal.efuelsystems.com",
+        "loginUserName": "garimaSuperUser",
+        "loginPassword": "DemoPass!CA1",
+        "companyCode": "TESTTEAM",
+        "siteName":"MySite",
+        "expectedTankNo":"TestTank",
+        "productName":"teststock",
+        "levelType":"Qty",
+        "expectedTankNoErrorMsg":"TankNo is a required field",
+        "expectedMinCapacityQtyErrorMsg":"CapacityMin is a required field",
+        "expectedMaxCapacityQtyErrorMsg":"CapacityMax is a required field",
+        "expectedMinCapacityPercentageErrorMsg":"MinimumCapacityPercent is a required field",
+        "expectedMaxCapacityPercentageErroMsg":"MaximumCapacityPercent is a required field",
+        "expectedMinLevelQtyErrorMsg":"LowStockMinimumLevel is a required field",
+        "expectedMaxLevelQtyErrorMsg":"LowStockMaximumLevel is a required field",
+        "expectedMinLevelPercentageErrorMsg":"LowStockMinimumLevelPercent is a required field",
+        "exepctedMaxLevelpercentageErrorMsg":"LowStockMaximumLevelPercent is a required field",
+        "expectedDeleteMsg":"Record has been deleted successfully"
+       
+    },
+    
+    "TC_Stock_022": 
+    {
+        "url": "https://uat-portal.efuelsystems.com",
+        "loginUserName": "garimaSuperUser",
+        "loginPassword": "DemoPass!CA1",
+        "companyCode": "TESTTEAM",
+        "siteName":"MySite",
+        "expectedTaskName":"TestTask",
+        "urgency":"Info",
+        "time":"1230",
+        "message":"Success",     
+        "dueDatePicker": "Due Date",
+        "dueDay": "18",
+        "dueMonth": "Oct",
+        "dueYear": "2024",
+        "startDatePicker": "Start Date",
+        "startDay": "18",
+        "startMonth": "Oct",
+        "startYear": "2024",
+        "frequencyType":"Once"
+    },
+
+    "TC_Stock_023": 
+    {
+        "url": "https://uat-portal.efuelsystems.com",
+        "loginUserName": "garimaSuperUser",
+        "loginPassword": "DemoPass!CA1",
+        "companyCode": "TESTTEAM",
+        "siteName":"MySite",
+        "expectedTaskName":"TestTask",
+        "expectedUpdatedTaskName":"newTestTask",
+        "urgency":"Info",
+        "time":"1230",
+        "message":"Success",
+        "updatedUrgency":"Important",
+        "updatedMessage":"ok",
+        "dueDatePicker": "Due Date",
+        "dueDay": "18",
+        "dueMonth": "Oct",
+        "dueYear": "2024",
+        "startDatePicker": "Start Date",
+        "startDay": "18",
+        "startMonth": "Oct",
+        "startYear": "2024",
+        "frequencyType":"Once"
+    },
+
+    "TC_Stock_024": 
+    {
+        "url": "https://uat-portal.efuelsystems.com",
+        "loginUserName": "garimaSuperUser",
+        "loginPassword": "DemoPass!CA1",
+        "companyCode": "TESTTEAM",
+        "siteName":"MySite",
+        "expectedTaskName":"TestTask",
+        "urgency":"Info",
+        "time":"1230",
+        "message":"Success",     
+        "dueDatePicker": "Due Date",
+        "dueDay": "24",
+        "dueMonth": "Jun",
+        "dueYear": "2024",
+        "startDatePicker": "Start Date",
+        "startDay": "24",
+        "startMonth": "Jun",
+        "startYear": "2024",
+        "frequencyType":"Once"
+    },
+
+    "TC_Stock_025": 
+    {
+        "url": "https://uat-portal.efuelsystems.com",
+        "loginUserName": "garimaSuperUser",
+        "loginPassword": "DemoPass!CA1",
+        "companyCode": "TESTTEAM",
+        "siteName":"MySite",
+        "expectedTaskName":"TestTask",
+        "urgency":"Info",
+        "time":"1230",
+        "message":"Success",     
+        "dueDatePicker": "Due Date",
+        "dueDay": "24",
+        "dueMonth": "Jun",
+        "dueYear": "2024",
+        "startDatePicker": "Start Date",
+        "startDay": "24",
+        "startMonth": "Jun",
+        "startYear": "2024",
+        "frequencyType":"Once"
+    },
+    
+    "TC_Stock_028": 
+    {
+        "url": "https://uat-portal.efuelsystems.com",
+        "loginUserName": "garimaSuperUser",
+        "loginPassword": "DemoPass!CA1",
+        "companyCode": "TESTTEAM",
+        "siteName":"MySite",
+        "expectedTankAttributeName":"TestStock",
+        "expectedSuccessMsg":"Record has been saved successfully"
+    },
+    
+    "TC_Stock_029": 
+    {
+        "url": "https://uat-portal.efuelsystems.com",
+        "loginUserName": "garimaSuperUser",
+        "loginPassword": "DemoPass!CA1",
+        "companyCode": "TESTTEAM",
+        "siteName":"MySite",
+        "expectedTankAttributeName":"TestStock",
+        "updatedTankAttributeName":"UpdatedStock",
+        "expectedSuccessMsg":"Record has been saved successfully",
+        "expectedTankNo":"TestTank"
+    },
+
+    "TC_Stock_030": 
+    {
+        "url": "https://uat-portal.efuelsystems.com",
+        "loginUserName": "garimaSuperUser",
+        "loginPassword": "DemoPass!CA1",
+        "companyCode": "TESTTEAM",
+        "value":"Enabled"
+    }
+
+
+    }

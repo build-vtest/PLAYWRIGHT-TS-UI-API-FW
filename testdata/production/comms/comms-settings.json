@@ -1,0 +1,110 @@
+{
+    "TC Comms_024": {
+        "url": "https://uat-portal.efuelsystems.com",
+        "userNameInput": "VikramSuperUser",
+        "companyCode": "TESTTEAM",
+        "passwordInput": "DemoPass!CA1",
+        "value": "9"
+    },
+    "TC Comms_025": {
+        "url": "https://uat-portal.efuelsystems.com",
+        "userNameInput": "VikramSuperUser",
+        "companyCode": "TESTTEAM",
+        "passwordInput": "DemoPass!CA1",
+        "formName": "Feedback Form",
+        "firstName": "Justine",
+        "moduleName": "Comms",
+        "recipientName": "GB"
+    },
+    "TC Comms_026": {
+        "url": "https://uat-portal.efuelsystems.com",
+        "userNameInput": "VikramSuperUser",
+        "companyCode": "TESTTEAM",
+        "passwordInput": "DemoPass!CA1",
+        "formName": "Feedback Form",
+        "firstName": "Justine",
+        "moduleName": "Comms",
+        "recipientName": "GB"
+    },
+    "TC Comms_027": {
+        "url": "https://uat-portal.efuelsystems.com",
+        "userNameInput": "VikramSuperUser",
+        "companyCode": "TESTTEAM",
+        "passwordInput": "DemoPass!CA1",
+        "formName": "a Formname",
+        "firstName": "Justine",
+        "moduleName": "Comms",
+        "recipientName": "GB",
+        "warningMessage": "Are you sure you want to delete this Form?",
+        "successMessage": "Record has been deleted successfully"
+    },
+    "TC Comms_028": {
+        "url": "https://uat-portal.efuelsystems.com",
+        "userNameInput": "VikramSuperUser",
+        "companyCode": "TESTTEAM",
+        "passwordInput": "DemoPass!CA1",
+        "msgName": "msg",
+        "ivrOption": "Not used by IVR",
+        "message": "done"
+    },
+    "TC Comms_029": {
+        "url": "https://uat-portal.efuelsystems.com",
+        "userNameInput": "VikramSuperUser",
+        "companyCode": "TESTTEAM",
+        "passwordInput": "DemoPass!CA1",
+        "msgName": "msg",
+        "updatedMsgName": "b",
+        "ivrOption": "Not used by IVR",
+        "message": "done",
+        "updatedIvrOption": "Record your own",
+        "updatedMessage": "successful"
+    },
+    "TC Comms_030": {
+        "url": "https://uat-portal.efuelsystems.com",
+        "userNameInput": "VikramSuperUser",
+        "companyCode": "TESTTEAM",
+        "passwordInput": "DemoPass!CA1",
+        "msgName": "msg",
+        "ivrOption": "Not used by IVR",
+        "message": "done"
+    },
+    "TC Comms_031": {
+        "url": "https://uat-portal.efuelsystems.com",
+        "userNameInput": "VikramSuperUser",
+        "companyCode": "TESTTEAM",
+        "passwordInput": "DemoPass!CA1",
+        "msgName": "msg",
+        "ivrOption": "Not used by IVR",
+        "message": "done"
+    },
+    "TC Comms_032": {
+        "url": "https://uat-portal.efuelsystems.com",
+        "userNameInput": "DemoSuperUser",
+        "companyCode": "TESTTEAM",
+        "passwordInput": "DemoPass!CA1",
+        "msgName": "msg",
+        "ivrOption": "Not used by IVR",
+        "message": "done"
+    },
+    "TC Comms_033": {
+        "url": "https://uat-portal.efuelsystems.com",
+        "userNameInput": "DemoSuperUser",
+        "companyCode": "TESTTEAM",
+        "passwordInput": "DemoPass!CA1",
+        "msgName": "msg",
+        "ivrOption": "Not used by IVR",
+        "message": "done"
+    },
+    "TC Comms_041": {
+        "url": "https://uat-portal.efuelsystems.com",
+        "userNameInput": "GarimaSuperUser",
+        "companyCode": "TESTTEAM",
+        "passwordInput": "DemoPass!CA1",
+        "msgName": "msg",
+        "ivrOption": "Not used by IVR",
+        "message": "done",
+        "TaskName": "Taskxyz",
+        "option": "Important",
+        "siteName": "BALWYN"
+    }
+}

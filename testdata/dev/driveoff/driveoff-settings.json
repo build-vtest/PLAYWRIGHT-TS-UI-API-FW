@@ -1,0 +1,9 @@
+{
+    
+    "TC Drive_009": {
+        "url": "https://dev-portal.efuelsystems.com",
+        "userNameInput": "DemoSuperUser",
+        "companyCode": "TESTTEAM",
+        "passwordInput": "DemoPass!CA1"
+    }
+}

@@ -1,0 +1,44 @@
+{         
+    "TC Comms_001": {
+        "url": "https://uat-portal.efuelsystems.com",
+        "userNameInput": "DemoSuperUser",
+        "companyCode": "TESTTEAM",
+        "passwordInput": "DemoPass!CA1",
+        "reportName":"report1",
+        "emailTo":"demo.user@efuelsystems.com",
+        "emailcc":"demo.user@efuelsystems.com",
+        "successfulSavedMessage":"Record has been saved successfully"
+    },
+
+    "TC Comms_002": {
+        "url": "https://uat-portal.efuelsystems.com",
+        "userNameInput": "DemoSuperUser",
+        "companyCode": "TESTTEAM",
+        "passwordInput": "DemoPass!CA1",
+        "reportName":"report1",
+        "emailTo":"demo.user@efuelsystems.com",
+        "emailcc":"demo.user@efuelsystems.com",
+        "successfulSavedMessage":"Record has been saved successfully"
+    },
+
+    "TC Comms_003": {
+        "url": "https://uat-portal.efuelsystems.com",
+        "userNameInput": "DemoSuperUser",
+        "companyCode": "TESTTEAM",
+        "passwordInput": "DemoPass!CA1",
+        "reportName":"report1",
+        "emailTo":"demo.user@efuelsystems.com",
+        "emailcc":"demo.user@efuelsystems.com",
+        "successfulSavedMessage":"Record has been saved successfully"
+    },
+    
+    "TC Comms_004": {
+        "url": "https://uat-portal.efuelsystems.com",
+        "userNameInput": "DemoSuperUser",
+        "companyCode": "TESTTEAM",
+        "passwordInput": "DemoPass!CA1",
+        "reportName":"report1",
+        "emailTo":"demo.user@efuelsystems.com",
+        "emailcc":"demo.user@efuelsystems.com"        
+    }
+}

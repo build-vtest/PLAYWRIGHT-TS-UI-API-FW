@@ -1,0 +1,118 @@
+{
+    "TC-Drive-001": {
+        "url": "https://uat-portal.efuelsystems.com",
+        "loginUserName": "VikramSuperUser",
+        "loginPassword": "DemoPass!CA1",
+        "companyCode": "TESTTEAM",
+        "siteName": "Site test",
+        "siteNumber": "7861",
+        "startDateDatePicker": "Start Date",
+        "startDateDay": "5",
+        "startDateMonth": "Mar",
+        "startDateYear": "2015",
+        "endDateDatePicker": "End Date",
+        "endDateDay": "25",
+        "endDateMonth": "Jul",
+        "endDateYear": "2023"
+    },
+
+    "TC-Drive-002": {
+        "url": "https://uat-portal.efuelsystems.com",
+        "loginUserName": "VikramSuperUser",
+        "loginPassword": "DemoPass!CA1",
+        "companyCode": "TESTTEAM",
+        "siteName": "Site test",
+        "siteNumber": "7861",
+        "startDateDatePicker": "Start Date",
+        "startDateDay": "5",
+        "startDateMonth": "Mar",
+        "startDateYear": "2015",
+        "endDateDatePicker": "End Date",
+        "endDateDay": "25",
+        "endDateMonth": "Jul",
+        "endDateYear": "2023"
+    },
+
+    "TC-Drive-003": {
+        "url": "https://uat-portal.efuelsystems.com",
+        "loginUserName": "VikramSuperUser",
+        "loginPassword": "DemoPass!CA1",
+        "companyCode": "TESTTEAM",
+        "siteName": "Site test",
+        "siteNumber": "7861",
+        "startDateDatePicker": "Start Date",
+        "startDateDay": "5",
+        "startDateMonth": "Mar",
+        "startDateYear": "2015",
+        "endDateDatePicker": "End Date",
+        "endDateDay": "25",
+        "endDateMonth": "Jul",
+        "endDateYear": "2023"
+    },
+
+    "TC-Drive-004": {
+        "url": "https://uat-portal.efuelsystems.com",
+        "loginUserName": "RaveenaSuperUser",
+        "loginPassword": "DemoPass!CA1",
+        "companyCode": "TESTTEAM",
+        "siteName": "Site test",
+        "siteNumber": "7861",
+        "startDateDatePicker": "Start Date",
+        "startDateDay": "5",
+        "startDateMonth": "Mar",
+        "startDateYear": "2015",
+        "endDateDatePicker": "End Date",
+        "endDateDay": "25",
+        "endDateMonth": "Jul",
+        "endDateYear": "2023"
+    },
+
+    "TC-Drive-005": {
+        "url": "https://uat-portal.efuelsystems.com",
+        "loginUserName": "RaveenaSuperUser",
+        "loginPassword": "DemoPass!CA1",
+        "companyCode": "TESTTEAM",
+        "siteName": "Site test",
+        "siteNumber": "7861",
+        "startDateDatePicker": "Start Date",
+        "startDateDay": "5",
+        "startDateMonth": "Mar",
+        "startDateYear": "2015",
+        "endDateDatePicker": "End Date",
+        "endDateDay": "25",
+        "endDateMonth": "Jul",
+        "endDateYear": "2023"
+    },
+
+    "TC-Drive-006": {
+        "url": "https://uat-portal.efuelsystems.com",
+        "loginUserName": "RaveenaSuperUser",
+        "loginPassword": "DemoPass!CA1",
+        "companyCode": "TESTTEAM",
+        "siteName": "Site test",
+        "siteNumber": "7861",
+        "startDateDatePicker": "Start Date",
+        "startDateDay": "5",
+        "startDateMonth": "Mar",
+        "startDateYear": "2015",
+        "endDateDatePicker": "End Date",
+        "endDateDay": "25",
+        "endDateMonth": "Jul",
+        "endDateYear": "2023"
+    },
+
+    "TC Drive_007": {
+        "url": "https://uat-portal.efuelsystems.com",
+        "userNameInput": "GarimaSuperUser",
+        "companyCode": "TESTTEAM",
+        "passwordInput": "DemoPass!CA1"
+    },
+
+    "TC Drive_008": {
+        "url": "https://uat-portal.efuelsystems.com",
+        "userNameInput": "GarimaSuperUser",
+        "companyCode": "TESTTEAM",
+        "passwordInput": "DemoPass!CA1"
+    
+    }
+}

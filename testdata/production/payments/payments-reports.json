@@ -1,0 +1,151 @@
+{
+    "TC_Pay_011": 
+    {
+        "url": "https://uat-portal.efuelsystems.com",
+        "loginUserName": "VikramSuperUser",
+        "loginPassword": "DemoPass!CA1",
+        "companyCode": "TESTTEAM",
+        "reportType": "Pay Now",
+        "fromDatePicker": "From",
+        "fromDay": "5",
+        "fromMonth": "Mar",
+        "fromYear": "2021",
+        "toDatePicker": "To",
+        "toDay": "25",
+        "toMonth": "Jul",
+        "toYear": "2023",
+        "siteName": "08087"
+    },
+
+    "TC_Pay_012": 
+    {
+        "url": "https://uat-portal.efuelsystems.com",
+        "loginUserName": "VikramSuperUser",
+        "loginPassword": "DemoPass!CA1",
+        "companyCode": "TESTTEAM",
+        "siteName": "Site test",
+        "reportType": "Pay Now",
+        "fromDatePicker": "From",
+        "fromDay": "5",
+        "fromMonth": "Mar",
+        "fromYear": "2021",
+        "toDatePicker": "To",
+        "toDay": "25",
+        "toMonth": "Jul",
+        "toYear": "2023"
+    },
+
+    "TC_Pay_013": 
+    {
+        "url": "https://uat-portal.efuelsystems.com",
+        "loginUserName": "VikramSuperUser",
+        "loginPassword": "DemoPass!CA1",
+        "companyCode": "TESTTEAM",
+        "siteName": "Site test",
+        "reportType": "Pay Now",
+        "index": 1,
+        "startDatePicker": "Start Date",
+        "startDay": "5",
+        "startMonth": "Jul",
+        "startYear": "2023",
+        "endDatePicker": "End Date",
+        "endDay": "25",
+        "endMonth": "Jul",
+        "endYear": "2023"
+    },
+
+    "TC_Pay_014":
+    {
+        "url": "https://uat-portal.efuelsystems.com",
+        "userNameInput": "DemoSuperUser",
+        "companyCode": "TESTTEAM",
+        "passwordInput": "DemoPass!CA1",
+        "siteName": "Site test"
+    },
+    
+    "TC_Pay_015":
+    {
+        "url": "https://uat-portal.efuelsystems.com",
+        "userNameInput": "DemoSuperUser",
+        "companyCode": "TESTTEAM",
+        "passwordInput": "DemoPass!CA1",
+        "emailTo": "demo.user@eFuelSystems.com",
+        "firstName": "Jennings",
+        "lastName": "Sharma",
+        "siteNumber": "-00781-Site0970",
+        "refNumber": "1",
+        "amount": 500,
+        "amt": 5,
+        "ExpectedAmountErrorMessage": "Amount cannot be greater than 5,000.00"
+    },
+
+    "TC_Pay_016": 
+    {
+        "url": "https://uat-portal.efuelsystems.com",
+        "userNameInput": "DemoSuperUser",
+        "companyCode": "TESTTEAM",
+        "passwordInput": "DemoPass!CA1",
+        "email": "demo.user@eFuelSystems.com",
+        "siteName": "Site test",
+        "reportType": "Pay Now",
+        "index": 1,
+        "startDatePicker": "Start Date",
+        "startDay": "5",
+        "startMonth": "Mar",
+        "startYear": "2021",
+        "endDatePicker": "End Date",
+        "endDay": "25",
+        "endMonth": "Jul",
+        "endYear": "2023",
+        "successMessage": "Succesfully resend Invoice via email"
+    },
+
+    "TC_Pay_017":
+    {
+        "url": "https://uat-portal.efuelsystems.com",
+        "userNameInput": "DemoSuperUser",
+        "companyCode": "TESTTEAM",
+        "passwordInput": "DemoPass!CA1",
+        "emailTo": "demo.user@eFuelSystems.com",
+        "siteName": "Site test",
+        "reportType": "Pay Now",
+        "index": 1,
+        "invalidEmail": "exampl@email.com",
+        "incorrectEmail": "email.com",
+        "startDatePicker": "Start Date",
+        "startDay": "5",
+        "startMonth": "Mar",
+        "startYear": "2021",
+        "endDatePicker": "End Date",
+        "endDay": "25",
+        "endMonth": "Jul",
+        "endYear": "2023"
+    },
+
+    "TC_Pay_018": 
+    {
+        "url": "https://uat-portal.efuelsystems.com",
+        "userNameInput": "DemoSuperUser",
+        "companyCode": "TESTTEAM",
+        "passwordInput": "DemoPass!CA1",
+        "emailTo": "demo.user@eFuelSystems.com",
+        "siteName": "Site test",
+        "reportType": "Pay Now",
+        "index": 1,
+        "startDatePicker": "Start Date",
+        "startDay": "5",
+        "startMonth": "Mar",
+        "startYear": "2021",
+        "endDatePicker": "End Date",
+        "endDay": "25",
+        "endMonth": "Jul",
+        "endYear": "2023",
+        "firstName": "Jennings",
+        "lastName": "Sharma",
+        "siteNumber": "-00781-Site0970",
+        "refNumber": "1",
+        "amount": 500,
+        "amt": 5,
+        "ExpectedAmountErrorMessage": "Amount cannot be greater than 5,000.00"
+    }
+}

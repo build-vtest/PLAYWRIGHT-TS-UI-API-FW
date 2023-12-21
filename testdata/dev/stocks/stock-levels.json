@@ -1,0 +1,116 @@
+{
+    "TC_Stock_006": 
+    {
+        "url": "https://dev-portal.efuelsystems.com",
+        "loginUserName": "garimaSuperUser",
+        "loginPassword": "DemoPass!CA1",
+        "companyCode": "TESTTEAM",
+        "siteName":"MySite",
+        "expectedTankNo":"TestTank",
+        "tankStatus":"Enabled",
+        "productName":"teststock",
+        "levelType":"Qty",
+        "minCapacityQty":"2",
+        "maxCapacityQty":"4",
+        "minCapacityPercentage":"40",
+        "maxCapacityPercentage":"80",
+        "minLevelQty":"4",
+        "maxLevelQty":"8",
+        "minLevelPercentage":"50",
+        "maxLevelPercentage":"90",
+        "expectedDeliveryQty":"20",
+        "reportType":"All"
+    },
+    
+    "TC_Stock_007": 
+    {
+        "url": "https://dev-portal.efuelsystems.com",
+        "loginUserName": "garimaSuperUser",
+        "loginPassword": "DemoPass!CA1",
+        "companyCode": "TESTTEAM",
+        "siteName":"MySite",
+        "expectedTankNo":"TestTank",
+        "tankStatus":"Enabled",
+        "productName":"teststock",
+        "levelType":"%",
+        "minCapacityQty":"20",
+        "maxCapacityQty":"40",
+        "minCapacityPercentage":"50",
+        "maxCapacityPercentage":"70",
+        "minLevelQty":"40",
+        "maxLevelQty":"80",
+        "minLevelPercentage":"50",
+        "maxLevelPercentage":"90",
+        "expectedDeliveryPer":"70",
+        "reportType":"All"
+    },
+
+    "TC_Stock_008": 
+    {
+        "url": "https://dev-portal.efuelsystems.com",
+        "loginUserName": "garimaSuperUser",
+        "loginPassword": "DemoPass!CA1",
+        "companyCode": "TESTTEAM",
+        "siteName":"MySite",
+        "expectedTankNo":"TestTank",
+        "tankStatus":"Enabled",
+        "productName":"teststock",
+        "levelType":"Both",
+        "minCapacityQty":"2",
+        "maxCapacityQty":"4",
+        "minCapacityPercentage":"40",
+        "maxCapacityPercentage":"80",
+        "minLevelQty":"4",
+        "maxLevelQty":"8",
+        "minLevelPercentage":"50",
+        "maxLevelPercentage":"90",
+        "expectedDeliveryQty":"1",
+        "expectedDeliveryPer":"70",
+        "reportType":"All"
+    },
+
+    "TC_Stock_009": 
+    {
+        "url": "https://dev-portal.efuelsystems.com",
+        "loginUserName": "garimaSuperUser",
+        "loginPassword": "DemoPass!CA1",
+        "companyCode": "TESTTEAM",
+        "siteName":"MySite",
+        "expectedTankNo":"TestTank",
+        "tankStatus":"Enabled",
+        "productName":"teststock",
+        "levelType":"Qty",
+        "minCapacityQty":"2",
+        "maxCapacityQty":"4",
+        "minCapacityPercentage":"40",
+        "maxCapacityPercentage":"80",
+        "minLevelQty":"4",
+        "maxLevelQty":"8",
+        "minLevelPercentage":"50",
+        "maxLevelPercentage":"90",
+        "expectedDeliveryQty":"15",
+        "reportType":"All"
+    },
+
+    "TC_Stock_010": 
+    {
+        "url": "https://dev-portal.efuelsystems.com",
+        "loginUserName": "garimaSuperUser",
+        "loginPassword": "DemoPass!CA1",
+        "companyCode": "TESTTEAM",
+        "siteName":"MySite",
+        "expectedTankNo":"TestTank",
+        "tankStatus":"Enabled",
+        "productName":"teststock",
+        "levelType":"Qty",
+        "minCapacityQty":"2",
+        "maxCapacityQty":"4",
+        "minCapacityPercentage":"40",
+        "maxCapacityPercentage":"80",
+        "minLevelQty":"4",
+        "maxLevelQty":"8",
+        "minLevelPercentage":"50",
+        "maxLevelPercentage":"90",
+        "expectedErrorMsg":"You have not entered any stock deliveries."
+    }
+}

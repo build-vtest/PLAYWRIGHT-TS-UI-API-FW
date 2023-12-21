@@ -1,0 +1,11 @@
+{
+    "TC-Admin-07": {
+        "url": "https://dev-portal.efuelsystems.com",
+        "userNameInput": "DemoSuperUser",
+        "companyCode": "TESTTEAM",
+        "passwordInput": "DemoPass!CA1",
+        "assetOwnershipType":"Site",
+        "siteName":"Site test",
+        "category":"testing"
+    }
+}

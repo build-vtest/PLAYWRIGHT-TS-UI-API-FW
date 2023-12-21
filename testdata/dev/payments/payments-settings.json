@@ -1,0 +1,70 @@
+{
+    "TC_Pay_006": {
+        "url": "https://dev-portal.efuelsystems.com",
+        "loginUserName": "VikramSuperUser",
+        "loginPassword": "DemoPass!CA1",
+        "companyCode": "TESTTEAM"
+    },
+    "TC_Pay_007": {
+        "url": "https://dev-portal.efuelsystems.com",
+        "loginUserName": "VikramSuperUser",
+        "loginPassword": "DemoPass!CA1",
+        "companyCode": "TESTTEAM",
+        "dueDateDays": "5",
+        "expiryDateDays": "10"
+    },
+    "TC_Pay_008": {
+        "url": "https://dev-portal.efuelsystems.com",
+        "loginUserName": "VikramSuperUser",
+        "loginPassword": "DemoPass!CA1",
+        "companyCode": "TESTTEAM",
+        "accountName": "Vikram Sanap1",
+        "bSB": "11",
+        "accountNumber": "123456798",
+        "savedSuccessMessage": "Record has been saved successfully",
+        "deletedSuccessMessage": "Bank account has been deleted successfully",
+        "value": "Enabled"
+    },
+    "TC_Pay_009": {
+        "url": "https://dev-portal.efuelsystems.com",
+        "loginUserName": "VikramSuperUser",
+        "loginPassword": "DemoPass!CA1",
+        "companyCode": "TESTTEAM",
+        "formName": "External user",
+        "editFormName": "Edited user",
+        "selectCreatedFormNameForEdit": "External user0239",
+        "existingTemplate": "New Test Form",
+        "selectFolder": "Safety",
+        "filePrefix": "efuelsystems",
+        "savedSuccessMessage": "Record has been saved successfully",
+        "deletedSuccessMessage": "Bank account has been deleted successfully"
+    },
+    "TC_Pay_010": {
+        "url": "https://dev-portal.efuelsystems.com",
+        "loginUserName": "VikramSuperUser",
+        "loginPassword": "DemoPass!CA1",
+        "companyCode": "TESTTEAM",
+        "formName": "External user",
+        "editFormName": "Edited user",
+        "selectCreatedFormNameForEdit": "External user0239",
+        "existingTemplate": "New Test Form",
+        "selectFolder": "Safety",
+        "filePrefix": "efuelsystems",
+        "savedSuccessMessage": "Record has been saved successfully",
+        "deletedSuccessMessage": "Bank account has been deleted successfully"
+    },
+    "TC_Pay_021": {
+        "url": "https://dev-portal.efuelsystems.com",
+        "loginUserName": "VikramSuperUser",
+        "loginPassword": "DemoPass!CA1",
+        "companyCode": "TESTTEAM",
+        "formName": "External user",
+        "editFormName": "Edited user",
+        "selectCreatedFormNameForEdit": "External user0239",
+        "existingTemplate": "New Test Form",
+        "selectFolder": "Safety",
+        "filePrefix": "efuelsystems",
+        "savedSuccessMessage": "Record has been saved successfully",
+        "deletedSuccessMessage": "Bank account has been deleted successfully"
+    }
+}

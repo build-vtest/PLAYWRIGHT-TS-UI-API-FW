@@ -1,0 +1,929 @@
+{
+	"TC-Admin-001": {
+		"url": "https://uat-portal.efuelsystems.com",
+		"userNameInput": "RaveenaSuperUser",
+		"companyCode": "TESTTEAM",
+		"passwordInput": "DemoPass!CA1",
+		"siteTabName": "Sites",
+		"SiteName": "RaveenaTestSite"
+	},
+	"TC-Admin-002": {
+		"url": "https://uat-portal.efuelsystems.com",
+		"userNameInput": "RaveenaSuperUser",
+		"companyCode": "TESTTEAM",
+		"passwordInput": "DemoPass!CA1",
+		"siteTabName": "Sites",
+		"SiteNumber": "01717",
+		"SiteName": "RaveenaTestSite"
+	},
+	"TC-Admin-46": {
+		"url": "https://uat-portal.efuelsystems.com",
+		"userNameInput": "RaveenaSuperUser",
+		"companyCode": "TESTTEAM",
+		"passwordInput": "DemoPass!CA1",
+		"siteTabName": "Sites"
+	},
+	"TC-Admin-47": {
+		"url": "https://uat-portal.efuelsystems.com",
+		"userNameInput": "RaveenaSuperUser",
+		"companyCode": "TESTTEAM",
+		"passwordInput": "DemoPass!CA1",
+		"usersTabName": "Users"
+	},
+	"TC-Admin-48": {
+		"url": "https://uat-portal.efuelsystems.com",
+		"userNameInput": "RaveenaSuperUser",
+		"companyCode": "TESTTEAM",
+		"passwordInput": "DemoPass!CA1",
+		"companySettingsTabName": "Company Settings"
+	},
+	"TC-Admin-49": {
+		"url": "https://uat-portal.efuelsystems.com",
+		"userNameInput": "RaveenaSuperUser",
+		"companyCode": "TESTTEAM",
+		"passwordInput": "DemoPass!CA1",
+		"contactsTabName": "Contacts"
+	},
+	"TC-Admin-52": {
+		"url": "https://uat-portal.efuelsystems.com",
+		"userNameInput": "RaveenaSuperUser",
+		"companyCode": "TESTTEAM",
+		"passwordInput": "DemoPass!CA1",
+		"siteName": "6IKaId2tI1"
+	},
+	"TC-Admin-74": {
+		"url": "https://uat-portal.efuelsystems.com",
+		"userNameInput": "RaveenaSuperUser",
+		"companyCode": "TESTTEAM",
+		"passwordInput": "DemoPass!CA1"
+	},
+	"TC-Admin-75": {
+		"url": "https://uat-portal.efuelsystems.com",
+		"userNameInput": "RaveenaSuperUser",
+		"companyCode": "TESTTEAM",
+		"passwordInput": "DemoPass!CA1"
+	},
+	"TC-Admin-79": {
+		"url": "https://uat-portal.efuelsystems.com",
+		"userNameInput": "RaveenaSuperUser",
+		"companyCode": "TESTTEAM",
+		"passwordInput": "DemoPass!CA1"
+	},
+	"TC-Admin-80": {
+		"url": "https://uat-portal.efuelsystems.com",
+		"userNameInput": "RaveenaSuperUser",
+		"companyCode": "TESTTEAM",
+		"passwordInput": "DemoPass!CA1"
+	},
+	"TC-Admin-81": {
+		"url": "https://uat-portal.efuelsystems.com",
+		"userNameInput": "RaveenaSuperUser",
+		"companyCode": "TESTTEAM",
+		"passwordInput": "DemoPass!CA1"
+	},
+	"TC-Admin-84": {
+		"url": "https://uat-portal.efuelsystems.com",
+		"userNameInput": "RaveenaSuperUser",
+		"companyCode": "TESTTEAM",
+		"passwordInput": "DemoPass!CA1"
+	},
+	"TC-Admin-85": {
+		"url": "https://uat-portal.efuelsystems.com",
+		"userNameInput": "RaveenaSuperUser",
+		"companyCode": "TESTTEAM",
+		"passwordInput": "DemoPass!CA1",
+		"SiteName": "Site test"
+	},
+	"TC-Admin-86": {
+		"url": "https://uat-portal.efuelsystems.com",
+		"userNameInput": "RaveenaSuperUser",
+		"companyCode": "TESTTEAM",
+		"passwordInput": "DemoPass!CA1",
+		"SiteName": "Site test"
+	},
+	"TC-Admin-296": {
+		"url": "https://uat-portal.efuelsystems.com",
+		"userNameInput": "RaveenaSuperUser",
+		"companyCode": "TESTTEAM",
+		"passwordInput": "DemoPass!CA1",
+		"SiteName": "Site test"
+	},
+	"TC-Admin-297": {
+		"url": "https://uat-portal.efuelsystems.com",
+		"userNameInput": "RaveenaSuperUser",
+		"companyCode": "TESTTEAM",
+		"passwordInput": "DemoPass!CA1"
+	},
+	"TC-Admin-298": {
+		"url": "https://uat-portal.efuelsystems.com",
+		"userNameInput": "RaveenaSuperUser",
+		"companyCode": "TESTTEAM",
+		"passwordInput": "DemoPass!CA1",
+		"SiteName": "Site test"
+	},
+	"TC-Admin-299": {
+		"url": "https://uat-portal.efuelsystems.com",
+		"userNameInput": "RaveenaSuperUser",
+		"companyCode": "TESTTEAM",
+		"passwordInput": "DemoPass!CA1",
+		"SiteName": "Site test"
+	},
+	"TC-Admin-300": {
+		"url": "https://uat-portal.efuelsystems.com",
+		"userNameInput": "RaveenaSuperUser",
+		"companyCode": "TESTTEAM",
+		"passwordInput": "DemoPass!CA1",
+		"SiteName": "Site test"
+	},
+	"TC-Admin-301": {
+		"url": "https://uat-portal.efuelsystems.com",
+		"userNameInput": "RaveenaSuperUser",
+		"companyCode": "TESTTEAM",
+		"passwordInput": "DemoPass!CA1",
+		"SiteName": "Site test",
+		"SiteNameUpdated": "Vikram Site"
+	},
+	"TC-Admin-302": {
+		"url": "https://uat-portal.efuelsystems.com",
+		"userNameInput": "RaveenaSuperUser",
+		"companyCode": "TESTTEAM",
+		"passwordInput": "DemoPass!CA1",
+		"SiteName": "Site test"
+	},
+	"TC-Admin-307": {
+		"url": "https://uat-portal.efuelsystems.com",
+		"userNameInput": "RaveenaSuperUser",
+		"companyCode": "TESTTEAM",
+		"passwordInput": "DemoPass!CA1",
+		"SiteName": "Site test"
+	},
+	"TC-Admin-308": {
+		"url": "https://uat-portal.efuelsystems.com",
+		"userNameInput": "RaveenaSuperUser",
+		"companyCode": "TESTTEAM",
+		"passwordInput": "DemoPass!CA1",
+		"SiteName": "Site test"
+	},
+	"TC-Admin-309": {
+		"url": "https://uat-portal.efuelsystems.com",
+		"userNameInput": "RaveenaSuperUser",
+		"companyCode": "TESTTEAM",
+		"passwordInput": "DemoPass!CA1",
+		"SiteName": "Site test"
+	},
+	"TC-Admin-353": {
+		"url": "https://uat-portal.efuelsystems.com",
+		"userNameInput": "RaveenaSuperUser",
+		"companyCode": "TESTTEAM",
+		"passwordInput": "DemoPass!CA1",
+		"SiteName": "Site test",
+		"firstName": "Vikram"
+	},
+	"TC-Admin-355": {
+		"url": "https://uat-portal.efuelsystems.com",
+		"userNameInput": "RaveenaSuperUser",
+		"companyCode": "TESTTEAM",
+		"passwordInput": "DemoPass!CA1",
+		"SiteName": "Site test",
+		"contactFirstName": "Aarti",
+		"contactLabel": "Test Contact"
+	},
+	"TC-Admin-356": {
+		"url": "https://uat-portal.efuelsystems.com",
+		"userNameInput": "RaveenaSuperUser",
+		"companyCode": "TESTTEAM",
+		"passwordInput": "DemoPass!CA1",
+		"SiteName": "Site test",
+		"contactFirstName": "Aartee",
+		"emailAddressValue": "demo.user@eFuelSystems.com",
+		"firstNameValue": "Jacob1",
+		"lastNameValue": "statham",
+		"timeZone": "(UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi(Asia/Kolkata)",
+		"countryValue": "India",
+		"contactTypeValue": "Contact",
+		"mobileValue": "2446414612",
+		"emailAddressNewValue": "demo.user@eFuelSystems.com",
+		"firstNameNewValue": "Jacob2",
+		"lastNameNewValue": "Satyam",
+		"timeZoneNewValue": "(UTC-11:00) Samoa(Pacific/Niue)",
+		"countryNewValue": "Australia",
+		"contactTypeNewValue": "Supplier",
+		"mobileNewValue": "466777888"
+	},
+	"TC-Admin-361": {
+		"url": "https://uat-portal.efuelsystems.com",
+		"userNameInput": "RaveenaSuperUser",
+		"companyCode": "TESTTEAM",
+		"passwordInput": "DemoPass!CA1",
+		"SiteName": "Site test",
+		"firstName": "Vikram"
+	},
+	"TC-Admin-358": {
+		"url": "https://uat-portal.efuelsystems.com",
+		"userNameInput": "RaveenaSuperUser",
+		"companyCode": "TESTTEAM",
+		"passwordInput": "DemoPass!CA1",
+		"SiteName": "Site test",
+		"contactFirstName": "Aartee"
+	},
+	"TC-Admin-434": {
+		"url": "https://uat-portal.efuelsystems.com",
+		"userNameInput": "RaveenaSuperUser",
+		"companyCode": "TESTTEAM",
+		"passwordInput": "DemoPass!CA1",
+		"SiteName": "Site test",
+		"contactFirstName": "Aartee",
+		"contactLastName": "Swami"
+	},
+	"TC-Admin-439": {
+		"url": "https://uat-portal.efuelsystems.com",
+		"userNameInput": "RaveenaSuperUser",
+		"companyCode": "TESTTEAM",
+		"passwordInput": "DemoPass!CA1",
+		"SiteName": "Site test",
+		"contactFirstName": "Aartee",
+		"contactLastName": "Swami"
+	},
+	"TC-Admin-503": {
+		"url": "https://uat-portal.efuelsystems.com",
+		"userNameInput": "RaveenaSuperUser",
+		"companyCode": "TESTTEAM",
+		"passwordInput": "DemoPass!CA1",
+		"siteName": "Site test",
+		"characteristic": "High Discount"
+	},
+	"TC-Admin-506": {
+		"url": "https://uat-portal.efuelsystems.com",
+		"userNameInput": "RaveenaSuperUser",
+		"companyCode": "TESTTEAM",
+		"passwordInput": "DemoPass!CA1",
+		"SiteName": "Site test",
+		"siteAttributeName": "xyz4879",
+		"characteristic": "High Discount"
+	},
+	"TC-Admin-510": {
+		"url": "https://uat-portal.efuelsystems.com",
+		"userNameInput": "RaveenaSuperUser",
+		"companyCode": "TESTTEAM",
+		"passwordInput": "DemoPass!CA1",
+		"SiteName": "Site test",
+		"characteristic": "High Discount"
+	},
+	"TC-Admin-521": {
+		"url": "https://uat-portal.efuelsystems.com",
+		"userNameInput": "RaveenaSuperUser",
+		"companyCode": "TESTTEAM",
+		"passwordInput": "DemoPass!CA1",
+		"SiteName": "Site test",
+		"attributeName": "abc7095",
+		"characteristic": "High Discount"
+	},
+	"TC-Admin-523": {
+		"url": "https://uat-portal.efuelsystems.com",
+		"userNameInput": "RaveenaSuperUser",
+		"companyCode": "TESTTEAM",
+		"passwordInput": "DemoPass!CA1",
+		"siteName": "Site test",
+		"attributeName": "A8670",
+		"characteristic": "High Discount"
+	},
+	"TC-Admin-525": {
+		"url": "https://uat-portal.efuelsystems.com",
+		"userNameInput": "RaveenaSuperUser",
+		"companyCode": "TESTTEAM",
+		"passwordInput": "DemoPass!CA1",
+		"SiteName": "Site test",
+		"attributeName": "A8670",
+		"characteristic": "High Discount"
+	},
+	"TC-Admin-527": {
+		"url": "https://uat-portal.efuelsystems.com",
+		"userNameInput": "RaveenaSuperUser",
+		"companyCode": "TESTTEAM",
+		"passwordInput": "DemoPass!CA1",
+		"SiteName": "Site test",
+		"accountNameerrorMessage": "Account Name  is a required field",
+		"BSBErrorMessage": "BSB  is a required field",
+		"accountNumberErrorMessage": "Account No.  is a required field"
+	},
+	"TC-Admin-538": {
+		"url": "https://uat-portal.efuelsystems.com",
+		"userNameInput": "GarimaSuperUser",
+		"companyCode": "TESTTEAM",
+		"passwordInput": "DemoPass!CA1",
+		"attributeName": "xyz",
+		"order": "3",
+		"validationType": "Checkbox",
+		"SiteName": "Site test",
+		"dropdownData": 13,
+		"entryName": "entry"
+	},
+	"TC-Admin-675": {
+		"url": "https://uat-portal.efuelsystems.com",
+		"userNameInput": "RaveenaSuperUser",
+		"companyCode": "TESTTEAM",
+		"passwordInput": "DemoPass!CA1",
+		"siteName": "Site test",
+		"validAccountNumber": "123456789"
+	},
+	"TC-Admin-676": {
+		"url": "https://uat-portal.efuelsystems.com",
+		"userNameInput": "RaveenaSuperUser",
+		"companyCode": "TESTTEAM",
+		"passwordInput": "DemoPass!CA1",
+		"siteName": "Site test",
+		"invalidAccountNumber": "abc"
+	},
+	"TC-Admin-683": {
+		"url": "https://uat-portal.efuelsystems.com",
+		"userNameInput": "RaveenaSuperUser",
+		"companyCode": "TESTTEAM",
+		"passwordInput": "DemoPass!CA1",
+		"siteName": "Site test",
+		"invalidAccountNumber": "abc",
+		"alertMessage": "Invalid number"
+	},
+	"TC-Admin-687": {
+		"url": "https://uat-portal.efuelsystems.com",
+		"userNameInput": "RaveenaSuperUser",
+		"companyCode": "TESTTEAM",
+		"passwordInput": "DemoPass!CA1",
+		"siteName": "Site test",
+		"validBSBNumber": "123456"
+	},
+	"TC-Admin-693": {
+		"url": "https://uat-portal.efuelsystems.com",
+		"userNameInput": "RaveenaSuperUser",
+		"companyCode": "TESTTEAM",
+		"passwordInput": "DemoPass!CA1",
+		"siteName": "Site test",
+		"invalidBSBNumber": "abc",
+		"alertMessage": "Invalid number"
+	},
+	"TC-Admin-701": {
+		"url": "https://uat-portal.efuelsystems.com",
+		"userNameInput": "RaveenaSuperUser",
+		"companyCode": "TESTTEAM",
+		"passwordInput": "DemoPass!CA1",
+		"siteName": "Site test",
+		"invalidBSBNumber": "abc",
+		"alertMessage": "Invalid number"
+	},
+	"TC-Admin-707": {
+		"url": "https://uat-portal.efuelsystems.com",
+		"userNameInput": "RaveenaSuperUser",
+		"companyCode": "TESTTEAM",
+		"passwordInput": "DemoPass!CA1",
+		"siteName": "Site test",
+		"invalidBSBNumber": "abc",
+		"alertMessage": "Invalid number"
+	},
+	"TC-Admin-708": {
+		"url": "https://uat-portal.efuelsystems.com",
+		"userNameInput": "RaveenaSuperUser",
+		"companyCode": "TESTTEAM",
+		"passwordInput": "DemoPass!CA1",
+		"SiteName": "Site test"
+	},
+	"TC-Admin-53": {
+		"url": "https://uat-portal.efuelsystems.com",
+		"userNameInput": "RaveenaSuperUser",
+		"companyCode": "TESTTEAM",
+		"passwordInput": "DemoPass!CA1",
+		"siteName": "6IKaId2tI1"
+	},
+	"TC-Admin-54": {
+		"url": "https://uat-portal.efuelsystems.com",
+		"userNameInput": "RaveenaSuperUser",
+		"companyCode": "TESTTEAM",
+		"passwordInput": "DemoPass!CA1",
+		"siteName": "6IKaId2tI1"
+	},
+	"TC-Admin-132": {
+		"url": "https://uat-portal.efuelsystems.com",
+		"userNameInput": "RaveenaSuperUser",
+		"companyCode": "TESTTEAM",
+		"passwordInput": "DemoPass!CA1",
+		"errorSiteNumber": "SiteNumber is a required field",
+		"errorSiteName": "SiteName is a required field",
+		"errorGroup": "Group is a required field",
+		"errorRegion": "Region is a required field"
+	},
+	"TC-Admin-133": {
+		"url": "https://uat-portal.efuelsystems.com",
+		"userNameInput": "RaveenaSuperUser",
+		"companyCode": "TESTTEAM",
+		"passwordInput": "DemoPass!CA1",
+		"errorSiteNumber": "StoreNumber is a required field",
+		"errorSiteName": "SiteName is a required field",
+		"errorSuburb": "Suburb is a required field",
+		"errorRegion": "Region is a required field"
+	},
+	"TC-Admin-134": {
+		"url": "https://uat-portal.efuelsystems.com",
+		"userNameInput": "RaveenaSuperUser",
+		"passwordInput": "DemoPass!CA1",
+		"companyCode": "TESTTEAM",
+		"siteNumber": "0",
+		"siteName": "Site",
+		"countryValue": "India",
+		"stateValue": "Maharashtra",
+		"suburb": "Pune",
+		"timeZoneValue": "(UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi(Asia/Kolkata)",
+		"brandValue": "Test",
+		"groupValue": "group1",
+		"regionValue": "region1",
+		"siteDivisionValue": "test",
+		"suburbValue": "test",
+		"siteNumberNew": "1",
+		"siteNameNew": "Site1",
+		"countryValueNew": "Åland Islands",
+		"timeZoneValueNew": "(UTC-10:00) Hawaii(Pacific/Midway)",
+		"brandValueNew": "gb",
+		"groupValueNew": "groupNew",
+		"regionValueNew": "regionNew"
+	},
+	"TC-Admin-135": {
+		"url": "https://uat-portal.efuelsystems.com",
+		"userNameInput": "RaveenaSuperUser",
+		"passwordInput": "DemoPass!CA1",
+		"companyCode": "TESTTEAM",
+		"siteName": "Site",
+		"filePath": "testdata/files/CorrectFormat1.csv",
+		"expected_SuccessMessage": "×Sites are imported successfully."
+	},
+	"TC-Admin-136": {
+		"url": "https://uat-portal.efuelsystems.com",
+		"userNameInput": "RaveenaSuperUser",
+		"passwordInput": "DemoPass!CA1",
+		"companyCode": "TESTTEAM",
+		"siteName": "Site",
+		"filePath": "testdata/files/CorrectFormat2.csv",
+		"expected_SuccessMessage": "×Sites are imported successfully."
+	},
+	"TC-Admin-137": {
+		"url": "https://uat-portal.efuelsystems.com",
+		"userNameInput": "RaveenaSuperUser",
+		"passwordInput": "DemoPass!CA1",
+		"companyCode": "TESTTEAM",
+		"siteName": "Site",
+		"filePath": "testdata/files/IncorrectFormat.csv",
+		"expected_ValidationErrorMessage": "Validation Errors",
+		"expected_ValidationErrorMessage2": "Line 2, column DateEnrolled: Invalid value."
+	},
+	"TC-Admin-139": {
+		"url": "https://uat-portal.efuelsystems.com",
+		"userNameInput": "RaveenaSuperUser",
+		"passwordInput": "DemoPass!CA1",
+		"companyCode": "TESTTEAM",
+		"siteName": "Site",
+		"filePath": "testdata/files/file.txt",
+		"expectedFileUploadErrorMessage": "Invalid file type. The file suffix must be csv."
+	},
+	"TC-Admin-142": {
+		"url": "https://uat-portal.efuelsystems.com",
+		"userNameInput": "RaveenaSuperUser",
+		"passwordInput": "DemoPass!CA1",
+		"companyCode": "TESTTEAM",
+		"siteName": "Site",
+		"expectedText": "Calculate Latitude and Longitude"
+	},
+	"TC-Admin-143": {
+		"url": "https://uat-portal.efuelsystems.com",
+		"userNameInput": "RaveenaSuperUser",
+		"passwordInput": "DemoPass!CA1",
+		"companyCode": "TESTTEAM",
+		"siteNumber": "0",
+		"siteName": "Site",
+		"countryValue": "India",
+		"stateValue": "Maharashtra",
+		"suburb": "Pune",
+		"timeZoneValue": "(UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi(Asia/Kolkata)",
+		"brandValue": "Test",
+		"groupValue": "group1",
+		"regionValue": "region1",
+		"siteDivisionValue": "test",
+		"suburbValue": "test",
+		"siteNumberNew": "1",
+		"siteNameNew": "Site1",
+		"countryValueNew": "Åland Islands",
+		"timeZoneValueNew": "(UTC-10:00) Hawaii(Pacific/Midway)",
+		"brandValueNew": "gb",
+		"groupValueNew": "groupNew",
+		"regionValueNew": "regionNew"
+	},
+	"TC-Admin-144": {
+		"url": "https://uat-portal.efuelsystems.com",
+		"userNameInput": "RaveenaSuperUser",
+		"passwordInput": "DemoPass!CA1",
+		"companyCode": "TESTTEAM",
+		"siteName": "Site"
+	},
+	"TC-Admin-145": {
+		"url": "https://uat-portal.efuelsystems.com",
+		"userNameInput": "RaveenaSuperUser",
+		"passwordInput": "DemoPass!CA1",
+		"companyCode": "TESTTEAM",
+		"siteName": "Site"
+	},
+	"TC-Admin-875": {
+		"url": "https://uat-portal.efuelsystems.com",
+		"loginUserName": "RaveenaSuperUser",
+		"loginPassword": "DemoPass!CA1",
+		"companyCode": "TESTTEAM",
+		"userNameValue": "User4",
+		"userNameDropdownValue": "demoadmin1"
+	},
+	"TC-Admin-427": {
+		"url": "https://uat-portal.efuelsystems.com",
+		"loginUserName": "RaveenaSuperUser",
+		"loginPassword": "DemoPass!CA1",
+		"companyCode": "TESTTEAM",
+		"userNameInput": "RaveenaSuperUser",
+		"passwordInput": "DemoPass!CA1",
+		"SiteName": "Site test",
+		"contactFirstName": "Admin",
+		"userNameValue": "User4",
+		"emailAddressValue": "demo.user@eFuelSystems.com",
+		"firstNameValue": "arnold",
+		"lastNameValue": "wick",
+		"country": "India",
+		"timeZone": "(UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi(Asia/Kolkata)",
+		"securityRole": "User",
+		"assetRole": "Test 1",
+		"manager": "demoadmin2",
+		"passwordType": "Standard Password",
+		"userNameDropdownValue": "demoadmin1"
+	},
+	"TC-Admin-426": {
+		"url": "https://uat-portal.efuelsystems.com",
+		"loginUserName": "RaveenaSuperUser",
+		"loginPassword": "DemoPass!CA1",
+		"companyCode": "TESTTEAM",
+		"userNameValue": "User4",
+		"emailAddressValue": "demo.user@eFuelSystems.com",
+		"firstNameValue": "arnold",
+		"lastNameValue": "wick",
+		"country": "India",
+		"timeZone": "(UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi(Asia/Kolkata)",
+		"securityRole": "User",
+		"assetRole": "Test 1",
+		"manager": "demoadmin2",
+		"passwordType": "Standard Password",
+		"userNameDropdownValue": "demoadmin1",
+		"userNameValueUpdated": "updated",
+		"emailAddressValueUpdated": "demo.user@eFuelSystems.com",
+		"firstNameValueUpdated": "jacob",
+		"lastNameValueUpdated": "wankhede",
+		"countryUpdated": "India",
+		"timeZoneUpdated": "(UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi(Asia/Kolkata)",
+		"securityRoleUpdated": "User",
+		"assetRoleUpdated": "Test 1",
+		"managerUpdated": "demoadmin2",
+		"passwordTypeUpdated": "Standard Password",
+		"userNameDropdownValueUpdated": "demoadmin1"
+	},
+	"TC-Admin-428": {
+		"url": "https://uat-portal.efuelsystems.com",
+		"loginUserName": "RaveenaSuperUser",
+		"loginPassword": "DemoPass!CA1",
+		"companyCode": "TESTTEAM",
+		"userNameInput": "RaveenaSuperUser",
+		"passwordInput": "DemoPass!CA1",
+		"SiteName": "Site test",
+		"contactLastName": "Swami",
+		"userNameValue": "User4",
+		"emailAddressValue": "demo.user@eFuelSystems.com",
+		"firstNameValue": "arnold",
+		"lastNameValue": "wick",
+		"country": "India",
+		"timeZone": "(UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi(Asia/Kolkata)",
+		"securityRole": "User",
+		"assetRole": "Test 1",
+		"manager": "demoadmin2",
+		"passwordType": "Standard Password",
+		"userNameDropdownValue": "demoadmin1",
+		"userNameValueUpdated": "updated",
+		"emailAddressValueUpdated": "demo.user@eFuelSystems.com",
+		"firstNameValueUpdated": "jacob",
+		"lastNameValueUpdated": "wankhede",
+		"countryUpdated": "India",
+		"timeZoneUpdated": "(UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi(Asia/Kolkata)",
+		"securityRoleUpdated": "User",
+		"assetRoleUpdated": "Test 1",
+		"managerUpdated": "demoadmin2",
+		"passwordTypeUpdated": "Standard Password",
+		"userNameDropdownValueUpdated": "demoadmin1"
+	},
+	"TC-Admin-429": {
+		"url": "https://uat-portal.efuelsystems.com",
+		"loginUserName": "RaveenaSuperUser",
+		"loginPassword": "DemoPass!CA1",
+		"companyCode": "TESTTEAM",
+		"passwordType": "Standard Password",
+		"userNameValue": "User4",
+		"emailAddressValue": "demo.user@eFuelSystems.com",
+		"firstNameValue": "arnold",
+		"lastNameValue": "wick",
+		"country": "India",
+		"timeZone": "(UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi(Asia/Kolkata)",
+		"securityRole": "User",
+		"assetRole": "Test 1",
+		"manager": "demoadmin2",
+		"successMessage": "×User created successfully. An email with password reset URL has been sent to user.",
+		"deletePropmtMessage": "Are you sure you want to delete this user?"
+	},
+	"TC-Admin-430": {
+		"url": "https://uat-portal.efuelsystems.com",
+		"loginUserName": "RaveenaSuperUser",
+		"loginPassword": "DemoPass!CA1",
+		"companyCode": "TESTTEAM",
+		"passwordType": "Standard Password",
+		"userNameValue": "User4",
+		"emailAddressValue": "demo.user@eFuelSystems.com",
+		"firstNameValue": "arnold",
+		"lastNameValue": "wick",
+		"country": "India",
+		"timeZone": "(UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi(Asia/Kolkata)",
+		"securityRole": "User",
+		"assetRole": "Test 1",
+		"manager": "demoadmin2",
+		"successMessage": "×User created successfully. An email with password reset URL has been sent to user.",
+		"userNameDuplicateValue": "duplicateuser11",
+		"emailAddressDuplicateValue": "demo.user@eFuelSystems.com",
+		"firstNameDuplicateValue": "User first Duplicate",
+		"lastNameDuplicateValue": "User last Duplicate",
+		"passwordTypeDuplicate": "Standard Password",
+		"duplicateMessage": "Are you sure you want to delete this user?"
+	},
+	"TC-Admin-146": {
+		"url": "https://uat-portal.efuelsystems.com",
+		"userNameInput": "RaveenaSuperUser",
+		"passwordInput": "DemoPass!CA1",
+		"companyCode": "TESTTEAM",
+		"siteName": "6IKaId2tI1"
+	},
+	"TC-Admin-156": {
+		"url": "https://uat-portal.efuelsystems.com",
+		"userNameInput": "RaveenaSuperUser",
+		"passwordInput": "DemoPass!CA1",
+		"companyCode": "TESTTEAM",
+		"siteName": "6IKaId2tI1",
+		"expectedSiteNumber": "N2TCVXIICY"
+	},
+	"TC-Admin-157": {
+		"url": "https://uat-portal.efuelsystems.com",
+		"userNameInput": "RaveenaSuperUser",
+		"passwordInput": "DemoPass!CA1",
+		"companyCode": "TESTTEAM"
+	},
+	"TC-Admin-158": {
+		"url": "https://uat-portal.efuelsystems.com",
+		"userNameInput": "RaveenaSuperUser",
+		"passwordInput": "DemoPass!CA1",
+		"companyCode": "TESTTEAM"
+	},
+	"TC-Admin-159": {
+		"url": "https://uat-portal.efuelsystems.com",
+		"userNameInput": "RaveenaSuperUser",
+		"passwordInput": "DemoPass!CA1",
+		"companyCode": "TESTTEAM",
+		"siteNumber": "0",
+		"siteName": "Site",
+		"countryValue": "India",
+		"state": "Maharashtra",
+		"suburbNameValue": "area",
+		"timeZoneValue": "(UTC-10:00) Hawaii(Pacific/Midway)",
+		"brandValue": "Test",
+		"groupValue": "group1",
+		"regionValue": "region1",
+		"expectedSuccessMessage": "×Record has been saved successfully"
+	},
+	"TC-Admin-160": {
+		"url": "https://uat-portal.efuelsystems.com",
+		"userNameInput": "RaveenaSuperUser",
+		"passwordInput": "DemoPass!CA1",
+		"companyCode": "TESTTEAM",
+		"siteNumber": "0",
+		"siteName": "Site",
+		"countryValue": "India",
+		"timeZoneValue": "(UTC-10:00) Hawaii(Pacific/Midway)",
+		"brandValue": "Test",
+		"groupValue": "group1",
+		"regionValue": "region1",
+		"siteNumberNew": "1",
+		"siteNameNew": "Site1",
+		"countryValueNew": "Australia",
+		"state": "Maharashtra",
+		"suburbNameValue": "area",
+		"timeZoneValueNew": "(UTC-10:00) Hawaii(Pacific/Midway)",
+		"brandValueNew": "gb",
+		"groupValueNew": "groupNew",
+		"regionValueNew": "regionNew"
+	},
+	"TC-Admin-473": {
+		"url": "https://uat-portal.efuelsystems.com",
+		"userNameInput": "RaveenaSuperUser",
+		"passwordInput": "DemoPass!CA1",
+		"companyCode": "TESTTEAM",
+		"siteNumber": "0",
+		"siteName": "Site test",
+		"countryValue": "India",
+		"state": "Maharashtra",
+		"timeZoneValue": "(UTC-10:00) Hawaii(Pacific/Midway)",
+		"suburbNameValue": "area",
+		"groupValue": "group1",
+		"regionValue": "region1",
+		"siteBrand": "Test",
+		"siteStatus": "Temporarily Closed",
+		"selectedCountry": "India",
+		"timeZone": "(UTC-10:00) Hawaii(Pacific/Midway)"
+	},
+	"TC-Admin-474": {
+		"url": "https://uat-portal.efuelsystems.com",
+		"userNameInput": "RaveenaSuperUser",
+		"passwordInput": "DemoPass!CA1",
+		"companyCode": "TESTTEAM"
+	},
+	"TC-Admin-490": {
+		"url": "https://uat-portal.efuelsystems.com",
+		"userNameInput": "RaveenaSuperUser",
+		"passwordInput": "DemoPass!CA1",
+		"companyCode": "TESTTEAM",
+		"SiteName": "Site test"
+	},
+	"TC-Admin-492": {
+		"url": "https://uat-portal.efuelsystems.com",
+		"userNameInput": "RaveenaSuperUser",
+		"passwordInput": "DemoPass!CA1",
+		"companyCode": "TESTTEAM",
+		"siteName": "6IKaId2tI1"
+	},
+	"TC-Admin-494": {
+		"url": "https://uat-portal.efuelsystems.com",
+		"userNameInput": "RaveenaSuperUser",
+		"passwordInput": "DemoPass!CA1",
+		"companyCode": "TESTTEAM",
+		"siteName": "6IKaId2tI1"
+	},
+	"TC-Admin-498": {
+		"url": "https://uat-portal.efuelsystems.com",
+		"userNameInput": "RaveenaSuperUser",
+		"passwordInput": "DemoPass!CA1",
+		"companyCode": "TESTTEAM",
+		"siteNumber": "  ",
+		"siteName": "  ",
+		"suburb": "  ",
+		"postCode": "            ",
+		"latitude": "  ",
+		"longitude": "  ",
+		"groupValue": "  ",
+		"regionValue": "  ",
+		"errorSiteNumber": "Field value must be at least 3 characters",
+		"errorSiteName": "Field value must be at least 3 characters",
+		"errorSuburb": "Field value must be at least 3 characters",
+		"errorPostCode": "PostCode must be at most 10 characters",
+		"errorLatitude": "Invalid decimal",
+		"errorLongitude": "Invalid decimal"
+	},
+	"TC-Admin-602": {
+		"url": "https://uat-portal.efuelsystems.com",
+		"userNameInput": "RaveenaSuperUser",
+		"passwordInput": "DemoPass!CA1",
+		"siteName": "Site0846",
+		"companyCode": "TESTTEAM",
+		"mondayFirstOpen": "00:00",
+		"mondayFirstClose": "23:59",
+		"tuesdayFirstOpen": "00:00",
+		"tuesdayFirstClose": "23:59",
+		"wednesdayFirstOpen": "10:00",
+		"wednesdayFirstClose": "23:00",
+		"thursdayFirstOpen": "11:00",
+		"thursdayFirstClose": "22:00",
+		"fridayFirstOpen": "11:00",
+		"fridayFirstClose": "22:00",
+		"saturdayFirstOpen": "00:00",
+		"saturdayFirstClose": "23:59",
+		"sundayFirstOpen": "00:00",
+		"sundayFirstClose": "23:59",
+		"dropDownValue": "24Hours"
+	},
+	"TC-Admin-604": {
+		"url": "https://uat-portal.efuelsystems.com",
+		"userNameInput": "RaveenaSuperUser",
+		"passwordInput": "DemoPass!CA1",
+		"siteName": "Site test",
+		"companyCode": "TESTTEAM"
+	},
+	"TC-Admin-605": {
+		"url": "https://uat-portal.efuelsystems.com",
+		"userNameInput": "RaveenaSuperUser",
+		"passwordInput": "DemoPass!CA1",
+		"siteName": "6IKaId2tI1",
+		"companyCode": "TESTTEAM"
+	},
+	"TC-Admin-606": {
+		"url": "https://uat-portal.efuelsystems.com",
+		"userNameInput": "RaveenaSuperUser",
+		"passwordInput": "DemoPass!CA1",
+		"siteName": "6IKaId2tI1",
+		"companyCode": "TESTTEAM"
+	},
+	"TC-Admin-609": {
+		"url": "https://uat-portal.efuelsystems.com",
+		"userNameInput": "RaveenaSuperUser",
+		"passwordInput": "DemoPass!CA1",
+		"siteName": "6IKaId2tI1",
+		"companyCode": "TESTTEAM",
+		"weekDays": [
+			"Monday",
+			"Tuesday",
+			"Wednesday",
+			"Thursday",
+			"Friday",
+			"Saturday",
+			"Sunday"
+		]
+	},
+	"TC-Admin-615": {
+		"url": "https://uat-portal.efuelsystems.com",
+		"userNameInput": "RaveenaSuperUser",
+		"passwordInput": "DemoPass!CA1",
+		"siteName": "Site0846",
+		"companyCode": "TESTTEAM"
+	},
+	"TC-Admin-617": {
+		"url": "https://uat-portal.efuelsystems.com",
+		"userNameInput": "RaveenaSuperUser",
+		"passwordInput": "DemoPass!CA1",
+		"siteName": "Site0846",
+		"companyCode": "TESTTEAM",
+		"dropDownValue": "1 Opening",
+		"dropDownValue1": "2 Openings",
+		"errorMessage": "Monday 1st Open cannot be empty"
+	},
+	"TC-Admin-623": {
+		"url": "https://uat-portal.efuelsystems.com",
+		"userNameInput": "RaveenaSuperUser",
+		"passwordInput": "DemoPass!CA1",
+		"siteName": "6IKaId2tI1",
+		"companyCode": "TESTTEAM"
+	},
+	"TC-Admin-645": {
+		"url": "https://uat-portal.efuelsystems.com",
+		"userNameInput": "RaveenaSuperUser",
+		"passwordInput": "DemoPass!CA1",
+		"siteName": "6IKaId2tI1",
+		"companyCode": "TESTTEAM"
+	},
+	"TC-Admin-647": {
+		"url": "https://uat-portal.efuelsystems.com",
+		"userNameInput": "RaveenaSuperUser",
+		"passwordInput": "DemoPass!CA1",
+		"siteName": "6IKaId2tI1",
+		"companyCode": "TESTTEAM"
+	},
+	"TC-Admin-648": {
+		"url": "https://uat-portal.efuelsystems.com",
+		"userNameInput": "RaveenaSuperUser",
+		"passwordInput": "DemoPass!CA1",
+		"siteName": "6IKaId2tI1",
+		"companyCode": "TESTTEAM",
+		"businessName": "Innomatics",
+		"aABN": "12345678901",
+		"physicalAddress1": "physicalAddress1",
+		"physicalAddress2": "physicalAddress2",
+		"Country": "India",
+		"physicalSuburb": "Suburb1",
+		"physicalPostCode": "PostCode1",
+		"postalAddress1": "postalAddress1",
+		"postalAddress2": "postalAddress2",
+		"postalSuburb": "Suburb2",
+		"postalPostCode": "PostCode2"
+	},
+	"TC-Admin-649": {
+		"url": "https://uat-portal.efuelsystems.com",
+		"userNameInput": "RaveenaSuperUser",
+		"passwordInput": "DemoPass!CA1",
+		"siteName": "aaa11",
+		"companyCode": "TESTTEAM",
+		"contactName": "Contact1",
+		"jobTitle": "Engineer",
+		"mobileNumber": "1234567890",
+		"email": "demo.user@efuelsystems.com"
+	},
+	"TC-Admin-650": {
+		"url": "https://uat-portal.efuelsystems.com",
+		"userNameInput": "RaveenaSuperUser",
+		"passwordInput": "DemoPass!CA1",
+		"siteName": "6IKaId2tI1",
+		"companyCode": "TESTTEAM"
+	},
+	"TC-Admin-754": {
+		"url": "https://uat-portal.efuelsystems.com",
+		"userNameInput": "RaveenaSuperUser",
+		"passwordInput": "DemoPass!CA1",
+		"companyCode": "TESTTEAM",
+		"SiteName": "Site test"
+	}
+}

@@ -1,0 +1,21 @@
+{
+    "TC_Stock_001": 
+    {
+        "url": "https://dev-portal.efuelsystems.com",
+        "loginUserName": "garimaSuperUser",
+        "loginPassword": "DemoPass!CA1",
+        "companyCode": "TESTTEAM",
+        "expectedLevelsText":" Levels",
+        "expectedReportsText":" Reports",
+        "expectedSettingsText":" Settings",
+        "expectedStocklevelPage":"Stock - Stock Level",
+        "expectedDeliveryPage":"Stock - Delivery",
+        "expectedReportIssuesPage":"Stock - Report Issues",
+        "expectedReportPage":"Stock - Report",
+        "expectedScheduledReportsPage":"Stock - Scheduled Reports",
+        "expectedTankAndPumpSetupPage":"Stock - Tank & Pump Setup",
+        "expectedTankAndPumpAttributesPage":"Stock - Tank & Pump Attributes",
+        "expectedTaskSetuppage":"Stock - Task Setup",
+        "expectedSettingPage":"Stock - Settings"
+    }
+}
